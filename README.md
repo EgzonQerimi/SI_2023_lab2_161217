@@ -4,4 +4,4 @@
 
 ### Control Flow Graph
 
-![Control Flow Graph](cfg161217)
+![Control Flow Graph](cfg161217.png)
