@@ -3,3 +3,5 @@
 ## Егзон Ќерими, бр. на индекс 161217
 
 ### Control Flow Graph
+
+![Control Flow Graph](cfg161217)
